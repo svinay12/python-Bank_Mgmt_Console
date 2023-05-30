@@ -6,4 +6,4 @@ User can check balance. It generate random account number for customer which wil
 
 -> Language  : python
 -> Database  : Mongo db
--> libraries : Pymongom time, os, sys, rich, random, datetime
+-> libraries : Pymongo time, os, sys, rich, random, datetime
